@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha Zafar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **E-commerce App**
+- 🔭 I’m currently working on **MERN Stack Project**
 
 - 🌱 I’m currently learning **React and JSX.**
 
